@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #import os ; os.system('pip install gtts bardapi edgegpt')
 import requests
 from time import sleep
